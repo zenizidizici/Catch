@@ -13,6 +13,6 @@ Large - dark blue
 Medium - blue
 Small - light blue
 
-## IMPORTANT: Must install minim from library for audio
+**IMPORTANT: Must install minim from library for audio
 
-Enjoy!
+Enjoy!**
