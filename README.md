@@ -19,17 +19,17 @@ The player interfaces with the game by controlling the platform which catches fa
 </p>
 
 If a ball is large/medium, the ball will bounce.
-* Large - dark blue
-* Medium - blue
-* Small - light blue
 <p align="center">
   <img src="mdpics/sizes.PNG">
 </p>
 
+* Large - dark blue
+* Medium - blue
+* Small - light blue
+<p align="center">
+  <img src="mdpics/catch.PNG">
+</p>
 
 **IMPORTANT: Must install minim from library for audio**
 
 **Enjoy!**
-<p align="center">
-  <img src="mdpics/catch.PNG">
-</p>
